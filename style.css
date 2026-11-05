@@ -127,13 +127,16 @@ body {
   text-decoration: none;
 }
 
+.kai-logo-img,
 .kai-logo-svg {
   height: 42px;
   width: auto;
+  object-fit: contain;
   flex-shrink: 0;
   transition: transform 0.2s;
 }
 
+.kai-logo-img:hover,
 .kai-logo-svg:hover {
   transform: scale(1.02);
 }
@@ -1124,6 +1127,7 @@ body {
   .branding-group {
     gap: 10px;
   }
+  .kai-logo-img,
   .kai-logo-svg {
     height: 32px;
   }

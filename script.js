@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
       { title: 'Bentuk Pelecehan: Verbal, Fisik, Visual', page: 'berita', desc: 'Kenali tindakan pelecehan seksual di lingkungan kereta api' },
       { title: 'Langkah "Kalau Melihat Jangan Diam"', page: 'berita', desc: '4 langkah peduli, laporkan, dan dukung korban' },
       { title: 'Press Release KAI (29 September 2026)', page: 'berita', desc: 'KAI ajak penumpang berani peduli cegah pelecehan seksual' },
-      { title: 'Materi Kampanye Brosur Tugas 2', page: 'galeri', desc: 'Unduh dan lihat desain brosur kampanye resmi' },
+      { title: 'Materi Kampanye Brosur', page: 'galeri', desc: 'Unduh dan lihat desain brosur kampanye resmi' },
       { title: 'Foto Dokumentasi Sosialisasi Stasiun', page: 'galeri', desc: 'Dokumentasi penayangan digital di stasiun dan ruang prioritas' }
     ];
 
